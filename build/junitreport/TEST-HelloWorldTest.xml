@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="K-Wang" name="HelloWorldTest" skipped="0" tests="2" time="0.387" timestamp="2015-05-06T13:50:49">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="lib.dir" value="lib" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\devtools_encore3\jdk1.6.0_22\jre\lib\resources.jar;C:\devtools_encore3\jdk1.6.0_22\jre\lib\rt.jar;C:\devtools_encore3\jdk1.6.0_22\jre\lib\sunrsasign.jar;C:\devtools_encore3\jdk1.6.0_22\jre\lib\jsse.jar;C:\devtools_encore3\jdk1.6.0_22\jre\lib\jce.jar;C:\devtools_encore3\jdk1.6.0_22\jre\lib\charsets.jar;C:\devtools_encore3\jdk1.6.0_22\jre\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="ant.home" value="C:\devtools\ant\apache-ant-1.7.1" />
+    <property name="jar.dir" value="build/jar" />
+    <property name="java.runtime.version" value="1.6.0_22-b04" />
+    <property name="user.name" value="Deqing" />
+    <property name="ant.file.type.HelloWorld" value="file" />
+    <property name="build.dir" value="build" />
+    <property name="user.language" value="en" />
+    <property name="ant.file.HelloWorld" value="C:\DeqingOnly\tech\exercises\demo1\build.xml" />
+    <property name="sun.boot.library.path" value="C:\devtools_encore3\jdk1.6.0_22\jre\bin" />
+    <property name="ant.project.default-target" value="main" />
+    <property name="ant.project.name" value="HelloWorld" />
+    <property name="java.version" value="1.6.0_22" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="java.endorsed.dirs" value="C:\devtools_encore3\jdk1.6.0_22\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="build/classes" />
+    <property name="java.class.version" value="50.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\devtools_encore3\jdk1.6.0_22\jre" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="main-class" value="dw.HelloWorld" />
+    <property name="ant.file" value="C:\DeqingOnly\tech\exercises\demo1\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="17.1-b03" />
+    <property name="report.dir" value="build/junitreport" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\devtools\ant\apache-ant-1.7.1\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.home" value="C:\Users\Deqing" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="java.library.path" value="C:\devtools_encore3\jdk1.6.0_22\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\CollabNet\Subversion Client;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\devtools_encore3\jdk1.6.0_22\bin;C:\devtools\ant\apache-ant-1.7.1\bin;C:\devtools\apache-maven-2.1.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\java\jdk1.5.0_14\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Subversion\bin;C:\Program Files\TortoiseGit\bin;C:\Dwimperl\perl\bin;C:\Dwimperl\perl\site\bin;C:\Dwimperl\c\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\CollabNet\Subversion Client;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\devtools_encore3\jdk1.6.0_22\bin;C:\devtools\ant\apache-ant-1.7.1\bin;C:\devtools\apache-maven-2.1.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\java\jdk1.5.0_14\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\Deqing\AppData\Roaming\npm" />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\DeqingOnly\tech\exercises\demo1\lib\junit-4.12.jar;C:\DeqingOnly\tech\exercises\demo1\lib\log4j-1.2.17.jar;C:\DeqingOnly\tech\exercises\demo1\build\jar\HelloWorld.jar;C:\devtools\ant\apache-ant-1.7.1\lib\ant-launcher.jar;C:\devtools\ant\apache-ant-1.7.1\lib\ant.jar;C:\devtools\ant\apache-ant-1.7.1\lib\ant-junit.jar;C:\devtools\ant\apache-ant-1.7.1\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="java.io.tmpdir" value="C:\Users\Deqing\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="os.arch" value="x86" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\devtools_encore3\jdk1.6.0_22\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\DeqingOnly\tech\exercises\demo1" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="basedir" value="C:\DeqingOnly\tech\exercises\demo1" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="ant.core.lib" value="C:\devtools\ant\apache-ant-1.7.1\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.invoked-targets" value="junit" />
+  </properties>
+  <testcase classname="HelloWorldTest" name="testWillAlwaysFail" time="0.011">
+    <failure message="An error message" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: An error message
+	at HelloWorldTest.testWillAlwaysFail(Unknown Source)
+</failure>
+  </testcase>
+  <testcase classname="HelloWorldTest" name="testNothing" time="0.0040" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
